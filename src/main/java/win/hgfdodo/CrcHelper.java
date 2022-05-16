@@ -1,7 +1,7 @@
-package com.crccalc;
+package win.hgfdodo;
 
 /**
- * Created by anthony on 13.05.2017.
+ * Created by heguangfu on 13.05.2017.
  */
 public class CrcHelper {
 

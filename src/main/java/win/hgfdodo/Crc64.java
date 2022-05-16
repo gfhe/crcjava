@@ -1,4 +1,4 @@
-package com.crccalc;
+package win.hgfdodo;
 
 public class Crc64 {
     public static AlgoParams Crc64 = new AlgoParams("CRC-64",64, 0x42F0E1EBA9EA3693L, 0x00000000L, false, false, 0x00000000L, 0x6C40DF5F0B497347L);

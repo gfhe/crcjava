@@ -1,13 +1,11 @@
-package com.crccalc;
+package win.hgfdodo;
 
 /**
- * Created by anthony on 11.05.2017.
+ * Created by heguangfu on 11.05.2017.
  */
-    public class AlgoParams
-    {
+public class AlgoParams {
 
-    public AlgoParams(String name, int hashSize, long poly, long init, boolean refIn, boolean refOut, long xorOut, long check)
-    {
+    public AlgoParams(String name, int hashSize, long poly, long init, boolean refIn, boolean refOut, long xorOut, long check) {
         Name = name;
         Check = check;
         Init = init;

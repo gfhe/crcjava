@@ -1,7 +1,7 @@
-package com.crccalc;
+package win.hgfdodo;
 
 /**
- * Created by anthony on 15.05.2017.
+ * Created by heguangfu on 15.05.2017.
  */
 public class Crc32 {
     public static AlgoParams Crc32 = new AlgoParams("CRC-32", 32, 0x04C11DB7L, 0xFFFFFFFFL, true, true, 0xFFFFFFFFL, 0xCBF43926L);

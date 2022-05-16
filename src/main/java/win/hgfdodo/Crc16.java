@@ -1,7 +1,7 @@
-package com.crccalc;
+package win.hgfdodo;
 
 /**
- * Created by anthony on 15.05.2017.
+ * Created by heguangfu on 15.05.2017.
  */
 public class Crc16 {
     public static AlgoParams Crc16CcittFalse = new AlgoParams("CRC-16/CCITT-FALSE", 16, 0x1021, 0xFFFF, false, false, 0x0, 0x29B1);

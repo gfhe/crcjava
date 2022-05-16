@@ -1,7 +1,7 @@
-package com.crccalc;
+package win.hgfdodo;
 
 /**
- * Created by anthony on 15.05.2017.
+ * Created by heguangfu on 15.05.2017.
  */
 public class Crc8 {
     public static AlgoParams Crc8 = new AlgoParams("CRC-8", 8, 0x7, 0x0, false, false, 0x0, 0xF4);
